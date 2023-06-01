@@ -1,0 +1,11 @@
+{
+  "name": "test-node-env",
+  "version": "1.0.0",
+  "description": "Test the use of env variables and env file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Fogo",
+  "license": "ISC"
+}
